@@ -209,17 +209,8 @@ public class Test01 {
 定理内容：
 
 对于合数n（合数指自然数中除了能被1和本身整除外，还能被其他数（0除外）整除的数）
-$$
-我们一定可以证明它一定有一个小于等于\sqrt{n}的非平凡因数(指的是1和它本身不同的因数) \\
-若x能整除n且1<x<n，则x是n的非平凡因子。例如，8的因子有1，2，4，8，而8的非平凡因子是2，4 \\
-如果不是，那么它所有的非平凡因数都是大于\sqrt{n}的。\\
-我们任取其中一个和n不同的非凡因数m，那么存在整数k使 n=km，那么k也为n的非平凡因数 \\
-但是k=\frac{n}{m}<\sqrt{n}，矛盾。所以合数n一定有一个小于等于\sqrt{n}的非平凡因数。 \\
----引用自知乎大佬的回答@忘忧北萱草
-$$
-
-
-![](E:\笔记\Java\img\SmartSelect_20210918-222918_touchnotes.jpg)
+![image](https://user-images.githubusercontent.com/87908620/133892919-5e38644d-10b5-4a92-b521-26c2373f1967.png)
+![SmartSelect_20210918-222918_touchnotes](https://user-images.githubusercontent.com/87908620/133892880-d4144283-ed46-48d9-a77e-6c8d95b39b9e.jpg)
 
 
 
